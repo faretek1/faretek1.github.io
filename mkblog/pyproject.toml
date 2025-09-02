@@ -1,0 +1,15 @@
+[project]
+name = "mkblog"
+version = "0.0.0"
+description = "Simple package for making blog posts in material for mkdocs."
+requires-python = ">=3.12"
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
+
+[project.scripts]
+mkblog = "src:main.main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src"]
