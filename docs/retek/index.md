@@ -27,6 +27,7 @@ but this area gives me a little more space to put stuff.
     - started using GitHub,
     - started using markdown (duh),
     - contributed to open source repositories,
+    - webscraped my school
     - started using goboscript,
     - made a goboscript package manager,
     - made a lot of packages for that package manager,
@@ -67,7 +68,6 @@ but this area gives me a little more space to put stuff.
         - its only missing a good text editor
     - i also have vim installed because it literally comes with my os 
         - i just cannot work out how to exit it though
-    - I webscraped my school
     - One reason why I really like FOSS is that it can be a completely free alternative for a simple job when other tools will ask for money
         - What I mean is that because we know how to use the command line, we save money
         - I once needed to parse an `.oab` file - an outlook offline address book
