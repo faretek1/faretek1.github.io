@@ -6,6 +6,7 @@ authors:
 categories:
   - Hello
   - World
+comments: true
 ---
 
 # Hello world!
