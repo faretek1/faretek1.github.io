@@ -1,6 +1,6 @@
 # README
 
-Hi, this is from faretek1 and it looks like you have found my blog.
+Hi, this is from faretek1, and it looks like you have found my blog.
 
 !!! Question "I have a question for you, the one who is reading this:"
 
