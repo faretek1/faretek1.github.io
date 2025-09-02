@@ -23,6 +23,7 @@ but this area gives me a little more space to put stuff.
     - made a lot of intro animations in scratch,
     - learnt python, 
     - made a discord bot,
+    - learnt a little bit of c++
     - started using GitHub,
     - started using markdown (duh),
     - contributed to open source repositories,
