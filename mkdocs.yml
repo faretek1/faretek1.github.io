@@ -9,6 +9,8 @@ repo_name: FAReTek1/faretek1.github.io
 
 theme:
   name: material
+  custom_dir: overrides
+
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
