@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
-site_name: faretek's website
+site_name: fa_blog
 site_url: https://faretek1.github.io/
-site_description: Static website
+site_description: faretek's blog website. (you can comment by the way)
 
 repo_url: https://github.com/FAReTek1/faretek1.github.io
 repo_name: FAReTek1/faretek1.github.io
@@ -11,12 +11,16 @@ theme:
   name: material
   custom_dir: overrides
 
+  logo: assets/logo.svg
+
   palette:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
+      primary: red
+      accent: red
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -24,6 +28,8 @@ theme:
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+      primary: red
+      accent: red
 
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
@@ -31,6 +37,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
+      primary: red
+      accent: red
 
 
   features:
