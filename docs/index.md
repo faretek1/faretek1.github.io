@@ -33,7 +33,6 @@ text-align: center;
 transition: box-shadow 125ms;
 " markdown>
 
-
 [![](https://scratch.mit.edu/favicon.ico)](https://scratch.mit.edu/users/faretek1/)
 [![](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/FAReTek1)
 [![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png)](https://discord.com/invite/XGKV8X9hfh)
