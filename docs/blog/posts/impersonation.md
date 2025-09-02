@@ -7,7 +7,7 @@ categories:
   - World
 ---
 
-# hello world
+# hello world (r7)
 
 Hi I am now on this blog. I was invited as contributor on the GitHub repository, so yay :).
 
