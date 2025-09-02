@@ -36,5 +36,6 @@ jobs:
           sudo apt-get install libcairo2-dev libfreetype6-dev libffi-dev libjpeg-dev libpng-dev libz-dev
 
           pip install mkdocs-glightbox
+          pip install mkdocs-rss-plugin
 
       - run: mkdocs gh-deploy --force
