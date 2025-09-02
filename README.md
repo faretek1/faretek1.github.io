@@ -1,4 +1,5 @@
 # faretek1.github.io
-gh pages
 
-you can view it [here](https://faretek1.github.io)
+This repository hosts my GitHub pages blog site. 
+
+You can view it [here](https://faretek1.github.io)
