@@ -46,7 +46,9 @@ plugins:
   - social
   - search
   - glightbox
-  - blog
+  - blog:
+      draft: true
+
   - rss:
       match_path: blog/posts/.*
       date_from_meta:
