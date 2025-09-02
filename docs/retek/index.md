@@ -45,7 +45,9 @@ but this area gives me a little more space to put stuff.
     - i hate uk bebras
     - I think java looks ugly because of the indentation and boilerplate (this opinion may change)
     - I think that goboscript needs a lot of tools
-    - I find scratch projects that avoid crediting by 'making things themselves' when concepts are clearly taken from other things (I'm talking about arc fillers) very annoying
+    - I find scratch projects that avoid crediting by 'making things themselves' when concepts are clearly taken from 
+      other things (I'm talking about arc fillers) to the extent of essentially coping the code very annoying 
+      (and I once did this myself)
         - I think that we should embrace the use of other people's code
         - This is why I love goboscript, as you can package things
     - I don't like using ai if possible. I usually use it if something is hard to find on google or if I am really, really stuck and everything I see, even if it seems relevant, doesn't work
