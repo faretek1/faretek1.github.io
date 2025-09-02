@@ -42,7 +42,7 @@ theme:
 
 
   features:
-    - navigation.instant
+    # - navigation.instant  # this breaks the hit counter
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.instant.preview
