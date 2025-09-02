@@ -71,8 +71,10 @@ def main():
                         help="Space-delimited list of authors")
     parser.add_argument("-d", "--draft", action="store_true", dest="is_draft", default=False,
                         help="Whether the blog entry is draft")
-    parser.add_argument("-c", "--categories", action="store", dest="categories", default="")
-    parser.add_argument("-M", "--markdown", action="store", dest="markdown", default="")
+    parser.add_argument("-c", "--categories", action="store", dest="categories", default="",
+                        help="Space-delimited list of categories")
+    parser.add_argument("-M", "--markdown", action="store", dest="markdown", default="",
+                        help="First line of blog (markdown) content")
 
     ### Parse args and set 'dynamic' defaults
 
