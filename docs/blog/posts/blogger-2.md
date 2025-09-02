@@ -1,5 +1,4 @@
 ---
-draft: true 
 date: 2025-07-26
 authors:
     - faretek1
