@@ -26,6 +26,11 @@ background: linear-gradient(
 );
 border: .075rem solid #FFFFFF80;
 border-radius: .2rem;
+font-size: .64rem;
+margin: 1.5625em 0;
+padding: 0 .6rem;
+text-align: center;
+transition: box-shadow 125ms;
 " markdown>
 
 
