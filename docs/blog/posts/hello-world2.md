@@ -8,6 +8,6 @@ categories:
   - gisucs
 ---
 
-# I haven't specified to include comemnts here
+# I haven't specified to include comments here
 
 ive set up giscus now, so now i am testing the behaviour with `.meta.yml`
