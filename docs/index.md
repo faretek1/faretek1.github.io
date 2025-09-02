@@ -17,8 +17,16 @@ Hi, this is from faretek1, and it looks like you have found my blog.
 
 Now that you made it to this place, I'll let you indulge in a couple of links (you probably don't care)
 <div style="
-background: linear-gradient(341deg,rgba(153, 152, 164, 1) 0%, rgba(103, 102, 119, 1) 63%, rgba(94, 93, 111, 1) 81%, rgba(89, 88, 107, 1) 100%);
-" class="admonition" markdown>
+background: linear-gradient(
+    341deg,
+    rgba(153, 152, 164, 1) 0%, 
+    rgba(103, 102, 119, 1) 63%, 
+    rgba(94, 93, 111, 1) 81%, 
+    rgba(89, 88, 107, 1) 100%
+);
+border: .075rem solid #FFFFFF80;
+border-radius: .2rem;
+" markdown>
 
 
 [![](https://scratch.mit.edu/favicon.ico)](https://scratch.mit.edu/users/faretek1/)
