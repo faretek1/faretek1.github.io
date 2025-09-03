@@ -3,11 +3,13 @@ date: 2025-09-03T21:58:56.478492
 draft: true
 authors:
 - areseven
+categories:
+- areseven
 ---
 
 # test run
 
-Hello I am 
+Hello I am AreSeven. Here's a collection of some of the syntax for the blogs which I need to remember. Definitely more useful in the long term than a simple introduction.
 
 
 # h1
@@ -17,29 +19,29 @@ Hello I am
 ##### h5
 ###### h6
 
-![img_6.png](img_6.png)
+![lemon](img_6.png)
 
 <!-- more -->
 
-> im so pro
+> melon
 
 
 !!! Info
 
-    I am the sigm@,. what. augustus.
-    ![img_7.png](img_7.png)
+    I am a blue woman. Yay!
+    ![areseven commander.png](areseven%20commander.png)
     
-??? Note "sigma"
+??? Note "Seven"
     
     hi
 
 ???+ warning
 
-    oops
+    oops uh..
     
 !!! question
     
-    hiii
+    Jello, there
 
 [https://squidfunk.github.io/mkdocs-material/reference/admonitions/?h=admonition#+type:abstract](https://squidfunk.github.io/mkdocs-material/reference/admonitions/?h=admonition#+type:abstract)
 
