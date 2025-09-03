@@ -113,3 +113,21 @@ extra:
       link: https://github.com/FAReTek1/
     - icon: fontawesome/brands/discord
       link: https://discord.gg/XGKV8X9hfh
+  analytics:
+    provider: google
+    property: G-13STQ6G21R
+
+    feedback:
+          title: Was this page helpful?
+          ratings:
+            - icon: material/thumb-up-outline
+              name: This page was helpful
+              data: 1
+              note: >-
+                Thanks for your feedback!
+            - icon: material/thumb-down-outline
+              name: This page could be improved
+              data: 0
+              note: >- 
+                Thanks for your feedback! Help us improve this page by
+                using our <a href="https://github.com/faretek1/faretek1.github.io/issues/new/?title=[Feedback]+{title}+-+{url}" target="_blank" rel="noopener">feedback form</a>.
