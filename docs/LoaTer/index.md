@@ -1,6 +1,6 @@
 ## who even am i...?
 
-That is not for you to know, no one knows. No one, except Know. [Know](../blog/posts/Who%20is%20Toaster.md) knows...
+That is not for you to know, no one knows. No one, except Know. [Know](../blog/posts/knowbody.md) knows...
 
 ## what about java...?
 
