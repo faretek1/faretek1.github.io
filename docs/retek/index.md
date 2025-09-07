@@ -12,10 +12,35 @@
 
 <!-- github-readme-stats instead of github-readme-stats-xi-flame-xcnavi3j9o -->
 
-## Hello
+<div style="
+background: linear-gradient(
+    341deg,
+    rgba(153, 152, 164, 1) 0%, 
+    rgba(103, 102, 119, 1) 63%, 
+    rgba(94, 93, 111, 1) 81%, 
+    rgba(89, 88, 107, 1) 100%
+);
+border: .075rem solid #FFFFFF80;
+border-radius: .2rem;
+font-size: .64rem;
+margin: 1.5625em 0;
+padding: 0 .6rem;
+text-align: center;
+transition: box-shadow 125ms;
+" markdown>
 
-The above is displayed on my [GitHub profile README](https://github.com/FAReTek1),
-but this area gives me a little more space to put stuff.
+[![](https://scratch.mit.edu/favicon.ico)](https://scratch.mit.edu/users/faretek1/)
+[![](https://github.githubassets.com/favicons/favicon.svg)](https://github.com/FAReTek1)
+[![](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png)](https://discord.com/invite/XGKV8X9hfh)
+[![](https://web-cdn.bsky.app/static/favicon-32x32.png)](https://bsky.app/profile/faretek1.github.io)
+[![](https://mastodon.social/packs/assets/favicon-32x32-CiQz7Niw.png)](https://mastodon.social/@retek1)
+
+</div>
+
+
+I directly linked the favicons of those websites, so they may not display if the websites are blocked or updated
+
+## Hello
 
 ??? note "I am a programmer who (roughly in order):"
 
