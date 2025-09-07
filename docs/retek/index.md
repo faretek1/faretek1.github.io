@@ -12,6 +12,14 @@
 
 <!-- github-readme-stats instead of github-readme-stats-xi-flame-xcnavi3j9o -->
 
+---
+
+## [My Projects](projects.md)
+
+---
+
+## Links
+
 <div style="
 background: linear-gradient(
     341deg,
