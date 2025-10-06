@@ -3,3 +3,4 @@
 .cache
 .venv
 mkblog
+docs/gh-readme.md
