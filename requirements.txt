@@ -3,3 +3,4 @@ mkdocs-material[imaging]
 mkdocs-glightbox
 mkdocs-rss-plugin
 mkdocs-simple-hooks
+mkdocs-authors-plugin

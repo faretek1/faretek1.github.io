@@ -58,6 +58,11 @@ plugins:
   - search
   - glightbox
   - meta
+  - authors:
+      authors_file: docs/blog/.authors.yml
+      # output_page: blog/authors.md
+      # yeah the above doesn't work
+
   - blog:
       draft: true
 

@@ -1,3 +1,10 @@
+page_params:
+  title: FA
+  description: "We art the members of the blog"
+  avatar_size: 150
+  avatar_shape: circle
+  avatar_align: left
+
 authors:
   faretek1:
     name: FA ReTek
