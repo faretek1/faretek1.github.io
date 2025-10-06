@@ -1,26 +1,19 @@
 {% extends "base.html" %}
 
-{% block footer %}
-
 <!-- For custom author CSS -->
+{% block extrahead %}
 {% if page and page.meta and page.meta.authors %}
-    <div
-            class="
-            theme-{{ config.theme.name }}
-            {% for author_name in page.meta.authors %}
-              author-{{ author_name | lower }}
-            {% endfor %}
-          "
-    >
-{% else %}
-    <div class="theme-{{ config.theme.name }}">
+<!--suppress HtmlUnknownTarget -->
+<link href="/stylesheets/author-{{ page.meta.authors[0] }}.css" rel="stylesheet">
 {% endif %}
+{{ super() }}
+{% endblock %}
 
+{% block footer %}
 <!-- Page view counter. Depends on URL. -->
 <p>Hit #:
     <script type="text/javascript" src="https://counter.websiteout.com/js/35/0/0/1"></script>
     <br></p>
 {{ super() }}
-
-    </div>
 {% endblock %}
+</div>
