@@ -1,11 +1,10 @@
-# monke place
+# FA Blog
 
 > You know the drill
 
-This is my blog area!!
+This used to be hosted on [blogger](https://monkeplace.blogspot.com/) by Google,
+but I moved to GitHub because it's cooler, looks nicer, and I can edit it from my ide.
 
-This used to be hosted on blogger by Google, but I moved to GitHub because it's cooler, looks nicer, and I can edit it from my ide.
-
-## [Old monke place (blogspot)](https://monkeplace.blogspot.com/)
+## Posts
 
 ---
