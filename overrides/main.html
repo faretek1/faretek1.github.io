@@ -1,6 +1,26 @@
 {% extends "base.html" %}
 
 {% block footer %}
-<p>Hit #: <script type="text/javascript" src="https://counter.websiteout.com/js/35/0/0/1"></script><br></p>
+
+<!-- For custom author CSS -->
+{% if page and page.meta and page.meta.authors %}
+    <div
+            class="
+            theme-{{ config.theme.name }}
+            {% for author_name in page.meta.authors %}
+              author-{{ author_name | lower }}
+            {% endfor %}
+          "
+    >
+{% else %}
+    <div class="theme-{{ config.theme.name }}">
+{% endif %}
+
+<!-- Page view counter. Depends on URL. -->
+<p>Hit #:
+    <script type="text/javascript" src="https://counter.websiteout.com/js/35/0/0/1"></script>
+    <br></p>
 {{ super() }}
+
+    </div>
 {% endblock %}
