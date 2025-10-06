@@ -68,6 +68,11 @@ plugins:
       categories:
         - categories
         - tags
+  - mkdocs-simple-hooks:
+      hooks:
+        on_pre_build: "docs.hooks:on_pre_build"
+        on_post_build: "docs.hooks:on_post_build"
+
 markdown_extensions:
   - admonition
   - pymdownx.details
