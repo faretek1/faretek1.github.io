@@ -3,8 +3,20 @@
 <!-- For custom author CSS -->
 {% block extrahead %}
 {% if page and page.meta and page.meta.authors %}
-<!--suppress HtmlUnknownTarget -->
-<link href="/stylesheets/author-{{ page.meta.authors[0] }}.css" rel="stylesheet">
+    {% if page.meta.authors[0] == "areseven" %}
+    <script>
+    // https://support.teamsupport.com/knowledgeBase/22497743
+    (function (){
+        const link = document.querySelector("link[rel*='icon']") || document.createElement("link");
+        link.rel = "icon";
+        link.href = "/assets/areseven.png";
+        document.head.appendChild(link);
+    })()
+    </script>
+    {% endif %}
+
+    <!--suppress HtmlUnknownTarget -->
+    <link href="/stylesheets/author-{{ page.meta.authors[0] }}.css" rel="stylesheet">
 {% endif %}
 {{ super() }}
 {% endblock %}
