@@ -58,6 +58,7 @@ plugins:
   - search
   - glightbox
   - meta
+  - git-authors
   - authors:
       authors_file: docs/blog/.authors.yml
       # output_page: blog/authors.md
