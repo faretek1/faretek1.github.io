@@ -2,6 +2,8 @@
 
 Hi, this is from [faretek1](https://github.com/FAReTek1), and it looks like you have found the fa blog.
 
+The easy-to-remember URL is [https://faretek.dev/](https://faretek.dev/)
+
 !!! Question "I have a question for you, the one who is reading this:"
 
     Please tell how you found this in the comments, 
