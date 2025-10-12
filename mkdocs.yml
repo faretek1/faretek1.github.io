@@ -1,11 +1,12 @@
 # yaml-language-server: $schema=https://squidfunk.github.io/mkdocs-material/schema.json
 
 site_name: fa_blog
-site_url: https://faretek1.github.io/
+site_url: https://faretek.dev/
 site_description: faretek's blog website. (you can comment by the way)
 
-repo_url: https://github.com/FAReTek1/faretek1.github.io
-repo_name: FAReTek1/faretek1.github.io
+repo_url: https://github.com/faretek1/faretek1.github.io
+repo_name: faretek1/faretek1.github.io
+edit_uri: edit/main/docs/
 
 theme:
   name: material
@@ -44,6 +45,7 @@ theme:
 
   features:
     # - navigation.instant  # this breaks the hit counter
+    - content.action.edit
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.instant.preview
