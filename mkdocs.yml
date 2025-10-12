@@ -124,8 +124,8 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/XGKV8X9hfh
   analytics:
-    provider: google
-    property: G-13STQ6G21R
+#    provider: google
+#    property: G-13STQ6G21R
 
     feedback:
           title: Was this page helpful?
