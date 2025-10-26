@@ -7,6 +7,11 @@
 
 This is the docs for [my backend server running on vercel](https://github.com/faretek1/faretek-api/). 
 
+This hosts endpoints that serve various purposes.
+Every url in the api starts with `https://api.faretek.dev/`.
+
+###### If you have suggestions for what could be included in this markdown file, please raise an issue on [GitHub](https://github.com/FAReTek1/faretek-api/issues)
+
 ## about
 
 [faretek-api](https://api.faretek.dev) is a sever running flask which is deployed on [Vercel](https://vercel.com/).
@@ -40,13 +45,3 @@ This is the docs for [my backend server running on vercel](https://github.com/fa
 ### <https://api.faretek.dev>
 ### [Source](https://github.com/faretek1/faretek-api/)
 ### [Vercel dashboard](https://vercel.com/fareteks-projects/faretek-api)
-
-
-# README
-
-This is the api section of [faretek-api](https://api.faretek.dev).
-This hosts endpoints that serve various purposes.
-
-Every url in the api starts with `https://api.faretek.dev/`
-
-###### If you have suggestions for what could be included in this markdown file, please raise an issue on [GitHub](https://github.com/FAReTek1/faretek-api/issues)
