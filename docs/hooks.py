@@ -14,8 +14,15 @@ def on_post_build(config: dict, *args, **kwargs):
 
     site_dir = Path(config['site_dir'])
 
-    origin = Path(".well-known", "atproto-did")
-    dest = site_dir / ".well-known" / "atproto-did"
-    dest.parent.mkdir(parents=True, exist_ok=True)
+    def cpy(origin: Path, dest: Path):
+        dest.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy(origin, dest)
 
-    shutil.copy(origin, dest)
+    cpy(
+        Path(".well-known", "atproto-did"),
+        site_dir / ".well-known" / "atproto-did"
+    )
+    cpy(
+        Path(".well-known", "discord"),
+        site_dir / ".well-known" / "discord"
+    )
